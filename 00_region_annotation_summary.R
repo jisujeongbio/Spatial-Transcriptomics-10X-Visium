@@ -1,5 +1,4 @@
 # 00_region_annotation_summary.R
-# Purpose:
 # Summarize region annotation workflow for integrated spatial transcriptomics data.
 # This script assigns anatomical region labels to clusters using:
 # 1) region-specific marker reference,
