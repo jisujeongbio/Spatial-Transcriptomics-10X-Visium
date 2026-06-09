@@ -8,4 +8,4 @@ This repository contains core analysis scripts used for spatial transcriptomics 
 - 03_CARD_deconvolution.R  (CARD: https://github.com/YMa-lab/CARD): Region-matched deconvolution analysis using CARD with multiple Allen Brain Atlas / WMB-10X reference datasets. (https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/index.html#expression_matrices/WMB-10Xv3/20230630/)
 
 ## Data availability
-Raw and processed spatial transcriptomics data are available through GEO: [GEO accession]
+Raw and processed spatial transcriptomics data are available through GEO: [GSE326942]
