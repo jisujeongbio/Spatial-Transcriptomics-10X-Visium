@@ -1,7 +1,8 @@
 # Spatial transcriptomics links hippocampal synaptic remodeling to microglial phagocytosis in synucleinopathy
 Jeon, M. T., **Jeong, J.**, Choi, M., Son, S., Yang, W., Cheon, M., & Kim, D. G. (2026). Spatial transcriptomics links hippocampal synaptic remodeling to microglial phagocytosis in synucleinopathy. *Journal of Advanced Research*. DOI: https://doi.org/10.1016/j.jare.2026.05.025
 
-This repository contains core analysis scripts used for spatial transcriptomics data analysis in the G2-3 α-synuclein transgenic and WT mouse. The scripts focus on region annotation, differential expression analysis, functional enrichment, and region-matched cell-type deconvolution.
+- This repository contains core analysis scripts used for spatial transcriptomics data analysis in the G2-3 α-synuclein transgenic and WT mouse.
+- The scripts focus on region annotation, differential expression analysis, functional enrichment, and region-matched cell-type deconvolution.
 
 ## Graphical summary
 
