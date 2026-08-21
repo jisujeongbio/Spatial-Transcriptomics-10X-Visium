@@ -23,4 +23,4 @@ DOI: https://doi.org/10.1016/j.jare.2026.05.025
 Raw and processed spatial transcriptomics data are available through GEO: [GSE326942](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE326942).
 
 ## Mirror repository
-This repository is also mirrored under the [KBRI-Neuroinformatics](https://github.com/KBRI-Neuroinformatics).
+This repository will be also mirrored under the [KBRI-Neuroinformatics](https://github.com/KBRI-Neuroinformatics).
